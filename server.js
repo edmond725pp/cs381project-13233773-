@@ -1,4 +1,4 @@
-
+require('dotenv').config();
 //Add Express and Mongoose
 const express = require('express');
 const session = require('express-session');
