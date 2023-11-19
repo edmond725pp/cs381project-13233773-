@@ -97,7 +97,7 @@
   },
   "compilerOptions": {
     "moduleResolution": "node",
-  },
+  }
   "keywords": [],
   "author": "",
   "license": "ISC"
