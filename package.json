@@ -98,3 +98,6 @@
   "author": "",
   "license": "ISC"
 }
+{
+  "buildCommand": "npm install dotenv"
+}
