@@ -98,6 +98,3 @@
   "author": "",
   "license": "ISC"
 }
-"engines": {
-  "node": ">=15"
-}
