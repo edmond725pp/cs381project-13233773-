@@ -95,6 +95,9 @@
     "start": "nodemon server.js",
     "buildCommand": "npm install dotenv"
   },
+  "compilerOptions": {
+    "moduleResolution": "node",
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
