@@ -93,10 +93,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
+    "buildCommand": "npm install dotenv"
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
-},
-  "buildCommand": {"npm install dotenv"
 }
